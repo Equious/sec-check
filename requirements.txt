@@ -1,0 +1,6 @@
+google-generativeai
+gitpython
+python-dotenv
+solidity-parser # For Solidity AST parsing
+# Add other static analysis tool wrappers if you decide to integrate them directly
+# e.g., slither-analyzer (though we might call Slither as a subprocess)
